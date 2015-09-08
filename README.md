@@ -2,7 +2,7 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cs109/2015lab1)
 
-Lets talk a bit about how labs and sections work in this course:
+Lets talk a bit about how labs and sections work in cs109:
 
 1. Lab Notebooks are made available every Thursday evening.
 2. Lab Videos (which may not cover everything in the notebooks) are made available every Friday as well
