@@ -1,4 +1,5 @@
 # 2015lab1
+fixed 2017 08 12
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/cs109/2015lab1)
 
